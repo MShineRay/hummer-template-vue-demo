@@ -8,6 +8,7 @@
       <steps002></steps002>
     </view>
     <view class="demo">
+      <text>steps003</text>
       <steps003 :steps="steps"></steps003>
     </view>
   </view>
@@ -17,13 +18,9 @@
   margin-top: 10px;
   border-top: 1px solid red;
 }
-  //.page{
-  //  width: 100%;
-  //  height: 100%;
-  //  display: flex;
-  //  justify-content: center;
-  //  align-items: center;
-  //}
+  .page{
+    background: #fff;
+  }
   //.slogan{
   //  font-size: 0.42rem;
   //}
