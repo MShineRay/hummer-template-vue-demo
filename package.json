@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "Hummer Project",
+  "author": "msr <mshineray@qq.com>",
+  "scripts": {
+    "build": "hummer build",
+    "dev": "hummer dev",
+    "debug": "npm run dev & hummer debug"
+  },
+  "dependencies": {
+    "@hummer/tenon-vue": "^1.0.0",
+    "@hummer/tenon-store": "^1.0.0"
+  },
+  "devDependencies": {}
+}
