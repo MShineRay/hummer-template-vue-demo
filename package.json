@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "hummber-template-vue-demo",
   "version": "1.0.0",
   "description": "Hummer Project",
   "author": "msr <mshineray@qq.com>",
@@ -12,5 +12,9 @@
     "@hummer/tenon-vue": "^1.0.0",
     "@hummer/tenon-store": "^1.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "stylus": "^0.54.8",
+    "stylus-loader": "^6.2.0",
+    "vue": "^3.2.26"
+  }
 }

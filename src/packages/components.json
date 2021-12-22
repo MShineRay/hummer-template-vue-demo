@@ -1,0 +1,360 @@
+[
+  {
+    "category": "basic",
+    "name": "Basic",
+    "text": "基础",
+    "list": [
+      {
+        "name": "ActionBar",
+        "path": "/action-bar",
+        "icon": "action-bar",
+        "text": "操作栏",
+        "complete": true
+      },
+      {
+        "name": "ActivityIndicator",
+        "path": "/activity-indicator",
+        "icon": "activity-indicator",
+        "text": "活动指示器",
+        "complete": true
+      },
+      {
+        "path": "/button",
+        "name": "Button",
+        "icon": "button",
+        "text": "按钮",
+        "complete": true
+      },
+      {
+        "name": "CellItem",
+        "path": "/cell-item",
+        "icon": "cell-item",
+        "text": "列表单元",
+        "complete": true
+      },
+      {
+        "name": "DetailItem",
+        "path": "/detail-item",
+        "icon": "detail-item",
+        "text": "清单项",
+        "complete": true
+      },
+      {
+        "name": "DropMenu",
+        "path": "/drop-menu",
+        "icon": "drop-menu",
+        "text": "下拉菜单",
+        "complete": true
+      },
+      {
+        "path": "/icon",
+        "name": "Icon",
+        "icon": "icon",
+        "text": "图标",
+        "complete": true
+      },
+      
+      {
+        "name": "ImageReader",
+        "path": "/image-reader",
+        "icon": "image-reader",
+        "text": "图片选择器",
+        "complete": true
+      },
+      {
+        "name": "ImageViewer",
+        "path": "/image-viewer",
+        "icon": "image-viewer",
+        "text": "图片浏览器",
+        "complete": true
+      },
+      {
+        "name": "NoticeBar",
+        "path": "/notice-bar",
+        "icon": "notice-bar",
+        "text": "通知栏",
+        "complete": true
+      },
+      {
+        "name": "Progress",
+        "path": "/progress",
+        "icon": "progress",
+        "text": "进度",
+        "complete": true
+      },
+      {
+        "name": "Skeleton",
+        "path": "/skeleton",
+        "icon": "skeleton",
+        "text": "骨架屏",
+        "complete": true
+      },
+      {
+        "name": "Stepper",
+        "path": "/stepper",
+        "icon": "stepper",
+        "text": "步进器",
+        "complete": true
+      },
+      {
+        "name": "Steps",
+        "path": "/steps",
+        "icon": "steps",
+        "text": "步骤条",
+        "complete": true
+      },
+      {
+        "name": "Swiper",
+        "path": "/swiper",
+        "icon": "swiper",
+        "text": "轮播",
+        "complete": true
+      },
+      {
+        "name": "TabBar",
+        "path": "/tab-bar",
+        "icon": "tab-bar",
+        "text": "标签栏",
+        "complete": true
+      },
+      {
+        "name": "Tabs",
+        "path": "/tabs",
+        "icon": "tabs",
+        "text": "标签页",
+        "complete": true
+      },
+      {
+        "name": "Tag",
+        "path": "/tag",
+        "icon": "tag",
+        "text": "标签",
+        "complete": true
+      }
+    ]
+  },
+  {
+    "category": "business",
+    "name": "Business",
+    "text": "业务相关",
+    "list": [
+      {
+        "name": "Amount",
+        "path": "/amount",
+        "icon": "amount",
+        "text": "金融数字",
+        "complete": true
+      },
+      {
+        "name": "Bill",
+        "path": "/bill",
+        "icon": "bill",
+        "text": "票据",
+        "complete": true
+      },
+      {
+        "name": "Captcha",
+        "path": "/captcha",
+        "icon": "captcha",
+        "text": "验证码窗口",
+        "complete": true
+      },
+      {
+        "name": "Cashier",
+        "path": "/cashier",
+        "icon": "cashier",
+        "text": "收银台",
+        "complete": true
+      },
+      {
+        "name": "Landscape",
+        "path": "/landscape",
+        "icon": "landscape",
+        "text": "压屏窗",
+        "complete": true
+      },
+      {
+        "name": "ResultPage",
+        "path": "/result-page",
+        "icon": "result-page",
+        "text": "结果页",
+        "complete": true
+      },
+      {
+        "name": "WaterMark",
+        "path": "/water-mark",
+        "icon": "water-mark",
+        "text": "水印",
+        "complete": true
+      }
+    ]
+  },
+  {
+    "category": "feedback",
+    "name": "Feedback",
+    "text": "操作反馈",
+    "list": [
+      {
+        "name": "ActionSheet",
+        "path": "/action-sheet",
+        "icon": "action-sheet",
+        "text": "动作面板",
+        "complete": true
+      },
+      {
+        "name": "DatePicker",
+        "path": "/date-picker",
+        "icon": "date-picker",
+        "text": "日期选择器",
+        "complete": true
+      },
+      {
+        "name": "Dialog",
+        "path": "/dialog",
+        "icon": "dialog",
+        "text": "模态窗",
+        "complete": true
+      },
+      {
+        "name": "Picker",
+        "path": "/picker",
+        "icon": "picker",
+        "text": "选择器",
+        "complete": true
+      },
+      {
+        "name": "Popup",
+        "path": "/popup",
+        "icon": "popup",
+        "text": "弹出层",
+        "complete": true
+      },
+      {
+        "name": "Selector",
+        "path": "/selector",
+        "icon": "selector",
+        "text": "列表选择器",
+        "complete": true
+      },
+      {
+        "name": "TabPicker",
+        "path": "/tab-picker",
+        "icon": "tab-picker",
+        "text": "多频道选择器",
+        "complete": true
+      },
+      {
+        "name": "Tip",
+        "path": "/tip",
+        "icon": "tip",
+        "text": "气泡提示",
+        "complete": true
+      },
+      {
+        "name": "Toast",
+        "path": "/toast",
+        "icon": "toast",
+        "text": "轻提示",
+        "complete": true
+      },
+      {
+        "name": "Transition",
+        "path": "/transition",
+        "icon": "transition",
+        "text": "动画",
+        "complete": true
+      }
+    ]
+  },
+  {
+    "category": "form",
+    "name": "Form",
+    "text": "表单相关",
+    "list": [
+      {
+        "name": "Agree",
+        "path": "/agree",
+        "icon": "agree",
+        "text": "勾选按钮",
+        "complete": true
+      },
+      {
+        "name": "Check",
+        "path": "/check",
+        "icon": "check",
+        "text": "选择项组",
+        "complete": true
+      },
+      {
+        "name": "Codebox",
+        "path": "/codebox",
+        "icon": "codebox",
+        "text": "字符码输入框",
+        "complete": true
+      },
+      {
+        "name": "Field",
+        "path": "/field",
+        "icon": "field",
+        "text": "区域列表组合",
+        "complete": true
+      },
+      {
+        "name": "InputItem",
+        "path": "/input-item",
+        "icon": "input-item",
+        "text": "输入框",
+        "complete": true
+      },
+      {
+        "name": "NumberKeyboard",
+        "path": "/number-keyboard",
+        "icon": "number-keyboard",
+        "text": "数字键盘",
+        "complete": true
+      },
+      {
+        "name": "Radio",
+        "path": "/radio",
+        "icon": "radio",
+        "text": "单选框",
+        "complete": true
+      },
+      {
+        "name": "Slider",
+        "path": "/slider",
+        "icon": "slider",
+        "text": "滑块",
+        "complete": true
+      },
+      {
+        "name": "Switch",
+        "path": "/switch",
+        "icon": "switch",
+        "text": "开关",
+        "complete": true
+      },
+      {
+        "name": "TextareaItem",
+        "path": "/textarea-item",
+        "icon": "textarea-item",
+        "text": "文本域",
+        "complete": true
+      }
+    ]
+  },
+  {
+    "category": "gesture",
+    "name": "Gesture",
+    "text": "手势",
+    "list": [
+      {
+        "name": "ScrollView",
+        "path": "/scroll-view",
+        "icon": "scroll-view",
+        "text": "滚动区域/下拉刷新",
+        "complete": true
+      }
+    ]
+  }
+]
