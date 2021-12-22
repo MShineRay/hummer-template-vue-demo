@@ -60,6 +60,64 @@ _index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__["default"].__fi
 
 /***/ }),
 
+/***/ "./src/packages/steps002/index.vue":
+/*!*****************************************!*\
+  !*** ./src/packages/steps002/index.vue ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _index_vue_vue_type_template_id_08f4f307___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.vue?vue&type=template&id=08f4f307& */ "./src/packages/steps002/index.vue?vue&type=template&id=08f4f307&");
+/* harmony import */ var _index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./index.vue?vue&type=script&lang=ts& */ "./src/packages/steps002/index.vue?vue&type=script&lang=ts&");
+/* harmony import */ var _index_vue_vue_type_style_index_0_lang_less___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./index.vue?vue&type=style&index=0&lang=less& */ "./src/packages/steps002/index.vue?vue&type=style&index=0&lang=less&");
+
+
+
+
+;
+_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__["default"].render = _index_vue_vue_type_template_id_08f4f307___WEBPACK_IMPORTED_MODULE_0__.render
+_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__["default"].__scopeId = "data-v-08f4f307"
+/* hot reload */
+if (false) {}
+
+_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__["default"].__file = "src/packages/steps002/index.vue"
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__["default"]);
+
+/***/ }),
+
+/***/ "./src/packages/steps003/index.vue":
+/*!*****************************************!*\
+  !*** ./src/packages/steps003/index.vue ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _index_vue_vue_type_template_id_c44cb470___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.vue?vue&type=template&id=c44cb470& */ "./src/packages/steps003/index.vue?vue&type=template&id=c44cb470&");
+/* harmony import */ var _index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./index.vue?vue&type=script&lang=ts& */ "./src/packages/steps003/index.vue?vue&type=script&lang=ts&");
+/* harmony import */ var _index_vue_vue_type_style_index_0_lang_less___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./index.vue?vue&type=style&index=0&lang=less& */ "./src/packages/steps003/index.vue?vue&type=style&index=0&lang=less&");
+
+
+
+
+;
+_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__["default"].render = _index_vue_vue_type_template_id_c44cb470___WEBPACK_IMPORTED_MODULE_0__.render
+_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__["default"].__scopeId = "data-v-c44cb470"
+/* hot reload */
+if (false) {}
+
+_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__["default"].__file = "src/packages/steps003/index.vue"
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_1__["default"]);
+
+/***/ }),
+
 /***/ "./src/index/app.vue?vue&type=template&id=554f69db&scoped=true&":
 /*!**********************************************************************!*\
   !*** ./src/index/app.vue?vue&type=template&id=554f69db&scoped=true& ***!
@@ -86,6 +144,36 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "render": () => (/* reexport safe */ _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_templateLoader_js_ruleSet_1_rules_2_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_template_id_4a12685a___WEBPACK_IMPORTED_MODULE_0__.render)
 /* harmony export */ });
 /* harmony import */ var _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_templateLoader_js_ruleSet_1_rules_2_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_template_id_4a12685a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./index.vue?vue&type=template&id=4a12685a& */ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps-base/index.vue?vue&type=template&id=4a12685a&");
+
+
+/***/ }),
+
+/***/ "./src/packages/steps002/index.vue?vue&type=template&id=08f4f307&":
+/*!************************************************************************!*\
+  !*** ./src/packages/steps002/index.vue?vue&type=template&id=08f4f307& ***!
+  \************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_templateLoader_js_ruleSet_1_rules_2_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_template_id_08f4f307___WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_templateLoader_js_ruleSet_1_rules_2_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_template_id_08f4f307___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./index.vue?vue&type=template&id=08f4f307& */ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps002/index.vue?vue&type=template&id=08f4f307&");
+
+
+/***/ }),
+
+/***/ "./src/packages/steps003/index.vue?vue&type=template&id=c44cb470&":
+/*!************************************************************************!*\
+  !*** ./src/packages/steps003/index.vue?vue&type=template&id=c44cb470& ***!
+  \************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_templateLoader_js_ruleSet_1_rules_2_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_template_id_c44cb470___WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_templateLoader_js_ruleSet_1_rules_2_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_template_id_c44cb470___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./index.vue?vue&type=template&id=c44cb470& */ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps003/index.vue?vue&type=template&id=c44cb470&");
 
 
 /***/ }),
@@ -120,6 +208,36 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./src/packages/steps002/index.vue?vue&type=style&index=0&lang=less&":
+/*!***************************************************************************!*\
+  !*** ./src/packages/steps002/index.vue?vue&type=style&index=0&lang=less& ***!
+  \***************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_style_loader_dist_index_js_clonedRuleSet_1_use_0_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_less_loader_dist_cjs_js_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_style_index_0_lang_less___WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_style_loader_dist_index_js_clonedRuleSet_1_use_0_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_less_loader_dist_cjs_js_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_style_index_0_lang_less___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-style-loader/dist/index.js??clonedRuleSet-1.use[0]!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/less-loader/dist/cjs.js!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./index.vue?vue&type=style&index=0&lang=less& */ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-style-loader/dist/index.js??clonedRuleSet-1.use[0]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/less-loader/dist/cjs.js!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps002/index.vue?vue&type=style&index=0&lang=less&");
+ 
+
+/***/ }),
+
+/***/ "./src/packages/steps003/index.vue?vue&type=style&index=0&lang=less&":
+/*!***************************************************************************!*\
+  !*** ./src/packages/steps003/index.vue?vue&type=style&index=0&lang=less& ***!
+  \***************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_style_loader_dist_index_js_clonedRuleSet_1_use_0_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_less_loader_dist_cjs_js_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_style_index_0_lang_less___WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_style_loader_dist_index_js_clonedRuleSet_1_use_0_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_less_loader_dist_cjs_js_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_style_index_0_lang_less___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-style-loader/dist/index.js??clonedRuleSet-1.use[0]!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/less-loader/dist/cjs.js!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./index.vue?vue&type=style&index=0&lang=less& */ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-style-loader/dist/index.js??clonedRuleSet-1.use[0]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/less-loader/dist/cjs.js!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps003/index.vue?vue&type=style&index=0&lang=less&");
+ 
+
+/***/ }),
+
 /***/ "./src/index/app.vue?vue&type=script&lang=ts&":
 /*!****************************************************!*\
   !*** ./src/index/app.vue?vue&type=script&lang=ts& ***!
@@ -150,6 +268,36 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./src/packages/steps002/index.vue?vue&type=script&lang=ts&":
+/*!******************************************************************!*\
+  !*** ./src/packages/steps002/index.vue?vue&type=script&lang=ts& ***!
+  \******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_babel_loader_lib_index_js_clonedRuleSet_3_use_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_babel_loader_lib_index_js_clonedRuleSet_3_use_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/babel-loader/lib/index.js??clonedRuleSet-3.use!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./index.vue?vue&type=script&lang=ts& */ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/babel-loader/lib/index.js??clonedRuleSet-3.use!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps002/index.vue?vue&type=script&lang=ts&");
+ 
+
+/***/ }),
+
+/***/ "./src/packages/steps003/index.vue?vue&type=script&lang=ts&":
+/*!******************************************************************!*\
+  !*** ./src/packages/steps003/index.vue?vue&type=script&lang=ts& ***!
+  \******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_babel_loader_lib_index_js_clonedRuleSet_3_use_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_babel_loader_lib_index_js_clonedRuleSet_3_use_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_hummer_tenon_loader_dist_index_js_ruleSet_1_rules_7_use_0_index_vue_vue_type_script_lang_ts___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/babel-loader/lib/index.js??clonedRuleSet-3.use!../../../../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./index.vue?vue&type=script&lang=ts& */ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/babel-loader/lib/index.js??clonedRuleSet-3.use!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps003/index.vue?vue&type=script&lang=ts&");
+ 
+
+/***/ }),
+
 /***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/index/app.vue?vue&type=template&id=554f69db&scoped=true&":
 /*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/index/app.vue?vue&type=template&id=554f69db&scoped=true& ***!
@@ -164,7 +312,9 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function render(_ctx, _cache) {
-  const _component_step001 = (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("step001")
+  const _component_steps001 = (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("steps001")
+  const _component_steps002 = (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("steps002")
+  const _component_steps003 = (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("steps003")
 
   return ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("view", {
     class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("page")
@@ -175,12 +325,17 @@ function render(_ctx, _cache) {
     (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("view", {
       class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("demo")
     }, [
-      (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_step001)
+      (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_steps001)
     ], 2 /* CLASS */),
     (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("view", {
       class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("demo")
     }, [
-      (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_step001)
+      (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_steps002)
+    ], 2 /* CLASS */),
+    (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("view", {
+      class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("demo")
+    }, [
+      (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_steps003, { steps: _ctx.steps }, null, 8 /* PROPS */, ["steps"])
     ], 2 /* CLASS */)
   ], 2 /* CLASS */))
 }
@@ -205,6 +360,174 @@ function render(_ctx, _cache) {
     (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("text", {
       class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("steps001")
     }, "hello steps001", 2 /* CLASS */)
+  ]))
+}
+
+/***/ }),
+
+/***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps002/index.vue?vue&type=template&id=08f4f307&":
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps002/index.vue?vue&type=template&id=08f4f307& ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var _hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @hummer/tenon-vue */ "./node_modules/@hummer/tenon-vue/dist/tenon-vue.es.js");
+
+
+function render(_ctx, _cache) {
+  return ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("view", null, [
+    (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("text", {
+      class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("steps001")
+    }, "hello steps002", 2 /* CLASS */)
+  ]))
+}
+
+/***/ }),
+
+/***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps003/index.vue?vue&type=template&id=c44cb470&":
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps003/index.vue?vue&type=template&id=c44cb470& ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var _hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @hummer/tenon-vue */ "./node_modules/@hummer/tenon-vue/dist/tenon-vue.es.js");
+
+
+(0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.pushScopeId)("data-v-c44cb470")
+const _hoisted_1 = /*#__PURE__*/(0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("text", null, "icon", -1 /* HOISTED */)
+;(0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.popScopeId)()
+
+function render(_ctx, _cache) {
+  const _component_i = (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("i")
+
+  return ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("view", null, [
+    (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("text", {
+      class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("steps001")
+    }, "hello steps003", 2 /* CLASS */),
+    (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("view", {
+      ref: "stepsRef",
+      class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)(["md-steps", {
+      'md-steps-vertical': _ctx.direction == 'vertical',
+      'md-steps-horizontal': _ctx.direction == 'horizontal',
+      'vertical-adaptive':
+        _ctx.direction == 'vertical' && _ctx.verticalAdaptive,
+      'no-current': _ctx.currentLength % 1 !== 0,
+    }])
+    }, [
+      ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(true), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.renderList)(_ctx.steps, (step, index) => {
+        return ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
+          key: `steps-${index}`
+        }, [
+          (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("view", {
+            class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)(["step-wrapper", [_ctx.getStepStatusClass(index)]])
+          }, [
+            (_ctx.$slots.icon)
+              ? ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("view", {
+                  key: 0,
+                  class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("icon-wrapper")
+                }, [
+                  (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.renderSlot)(_ctx.$slots, "icon", {
+                    index: index,
+                    currentIndex: _ctx.currentLength
+                  })
+                ], 2 /* CLASS */))
+              : ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("view", {
+                  key: 1,
+                  class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("icon-wrapper")
+                }, [
+                  (index < _ctx.currentLength)
+                    ? ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, { key: 0 }, [
+                        (_ctx.$slots.reached || _ctx.$slots.reached)
+                          ? (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.renderSlot)(_ctx.$slots, "reached", {
+                              key: 0,
+                              index: index
+                            })
+                          : ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("view", {
+                              key: 1,
+                              class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("step-node-default")
+                            }, [
+                              (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("view", {
+                                class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("step-node-default-icon"),
+                                style: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeStyle)({"width":"6px","height":"6px","border-radius":"50%"})
+                              }, null, 6 /* CLASS, STYLE */)
+                            ], 2 /* CLASS */))
+                      ], 2112 /* STABLE_FRAGMENT, DEV_ROOT_FRAGMENT */))
+                    : (index === _ctx.currentLength)
+                      ? ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, { key: 1 }, [
+                          (_ctx.$slots.current || _ctx.$slots.current)
+                            ? (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.renderSlot)(_ctx.$slots, "current", {
+                                key: 0,
+                                index: index
+                              })
+                            : (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("v-if", true),
+                          _hoisted_1
+                        ], 64 /* STABLE_FRAGMENT */))
+                      : ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, { key: 2 }, [
+                          (_ctx.$slots.unreached || _ctx.$slots.unreached)
+                            ? (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.renderSlot)(_ctx.$slots, "unreached", {
+                                key: 0,
+                                index: index
+                              })
+                            : ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("view", {
+                                key: 1,
+                                class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("step-node-default")
+                              }, [
+                                (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("view", {
+                                  class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("step-node-default-icon"),
+                                  style: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeStyle)({"width":"6px","height":"6px","border-radius":"50%"})
+                                }, null, 6 /* CLASS, STYLE */)
+                              ], 2 /* CLASS */))
+                        ], 2112 /* STABLE_FRAGMENT, DEV_ROOT_FRAGMENT */))
+                ], 2 /* CLASS */)),
+            (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("view", {
+              class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("text-wrapper")
+            }, [
+              (_ctx.$slots.content)
+                ? (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.renderSlot)(_ctx.$slots, "content", {
+                    key: 0,
+                    index: index,
+                    step: step
+                  })
+                : ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, { key: 1 }, [
+                    (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("view", {
+                      class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("name")
+                    }, (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(step.name), 3 /* TEXT, CLASS */),
+                    (step.text)
+                      ? ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("view", {
+                          key: 0,
+                          class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("desc")
+                        }, (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(step.text), 3 /* TEXT, CLASS */))
+                      : (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("v-if", true)
+                  ], 64 /* STABLE_FRAGMENT */))
+            ], 2 /* CLASS */)
+          ], 2 /* CLASS */),
+          (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("view", {
+            class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)(["bar", [
+          _ctx.direction === 'horizontal'
+            ? 'horizontal-bar'
+            : 'vertical-bar',
+        ]]),
+            style: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeStyle)(_ctx.getStepSizeForStyle(index))
+          }, [
+            (_ctx.progress[index])
+              ? ((0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createBlock)(_component_i, {
+                  key: 0,
+                  class: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)("bar-inner"),
+                  style: (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.normalizeStyle)(_ctx.barInnerStyle(index))
+                }, null, 8 /* PROPS */, ["class", "style"]))
+              : (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("v-if", true)
+          ], 6 /* CLASS, STYLE */)
+        ], 64 /* STABLE_FRAGMENT */))
+      }), 128 /* KEYED_FRAGMENT */))
+    ], 2 /* CLASS */)
   ]))
 }
 
@@ -258,6 +581,54 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-style-loader/dist/index.js??clonedRuleSet-1.use[0]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/less-loader/dist/cjs.js!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps002/index.vue?vue&type=style&index=0&lang=less&":
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-style-loader/dist/index.js??clonedRuleSet-1.use[0]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/less-loader/dist/cjs.js!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps002/index.vue?vue&type=style&index=0&lang=less& ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @hummer/tenon-vue */ "./node_modules/@hummer/tenon-vue/dist/tenon-vue.es.js");
+
+    
+    /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((function(){
+      
+    var ruleSetMap = {"global":{"classList":[]}};
+    var options = {"scoped":false,"id":"data-v-undefined","packageName":"@hummer/tenon-vue"};
+  
+      return (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.collectStyle)(ruleSetMap, options);
+    })());
+  
+
+/***/ }),
+
+/***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-style-loader/dist/index.js??clonedRuleSet-1.use[0]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/less-loader/dist/cjs.js!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps003/index.vue?vue&type=style&index=0&lang=less&":
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-style-loader/dist/index.js??clonedRuleSet-1.use[0]!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/less-loader/dist/cjs.js!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps003/index.vue?vue&type=style&index=0&lang=less& ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @hummer/tenon-vue */ "./node_modules/@hummer/tenon-vue/dist/tenon-vue.es.js");
+
+    
+    /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((function(){
+      
+    var ruleSetMap = {"global":{"classList":[]}};
+    var options = {"scoped":false,"id":"data-v-undefined","packageName":"@hummer/tenon-vue"};
+  
+      return (0,_hummer_tenon_vue__WEBPACK_IMPORTED_MODULE_0__.collectStyle)(ruleSetMap, options);
+    })());
+  
+
+/***/ }),
+
 /***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/babel-loader/lib/index.js??clonedRuleSet-3.use!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/index/app.vue?vue&type=script&lang=ts&":
 /*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/babel-loader/lib/index.js??clonedRuleSet-3.use!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/index/app.vue?vue&type=script&lang=ts& ***!
@@ -269,13 +640,19 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _packages_steps_base__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../packages/steps-base */ "./src/packages/steps-base/index.ts");
+/* harmony import */ var _packages_steps002__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../packages/steps002 */ "./src/packages/steps002/index.ts");
+/* harmony import */ var _packages_steps003__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../packages/steps003 */ "./src/packages/steps003/index.ts");
+
+
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   pageConfig: {
     canScroll: false
   },
   components: {
-    step001: _packages_steps_base__WEBPACK_IMPORTED_MODULE_0__["default"]
+    steps001: _packages_steps_base__WEBPACK_IMPORTED_MODULE_0__["default"],
+    steps002: _packages_steps002__WEBPACK_IMPORTED_MODULE_1__["default"],
+    steps003: _packages_steps003__WEBPACK_IMPORTED_MODULE_2__["default"]
   },
 
   data() {
@@ -310,6 +687,62 @@ __webpack_require__.r(__webpack_exports__);
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,vue__WEBPACK_IMPORTED_MODULE_0__.defineComponent)({
   name: 'MdSteps'
+}));
+
+/***/ }),
+
+/***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/babel-loader/lib/index.js??clonedRuleSet-3.use!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps002/index.vue?vue&type=script&lang=ts&":
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/babel-loader/lib/index.js??clonedRuleSet-3.use!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps002/index.vue?vue&type=script&lang=ts& ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Users_mengxianrui_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_babel_runtime_helpers_esm_objectSpread2_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/objectSpread2.js */ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.runtime.esm-bundler.js");
+/* harmony import */ var _use_steps__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./use-steps */ "./src/packages/steps002/use-steps.ts");
+
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,vue__WEBPACK_IMPORTED_MODULE_1__.defineComponent)({
+  name: 'MdSteps',
+  props: _use_steps__WEBPACK_IMPORTED_MODULE_2__.stepsProps,
+
+  setup(props) {
+    return (0,_Users_mengxianrui_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_babel_runtime_helpers_esm_objectSpread2_js__WEBPACK_IMPORTED_MODULE_0__["default"])({}, (0,_use_steps__WEBPACK_IMPORTED_MODULE_2__.useSteps)(props));
+  }
+
+}));
+
+/***/ }),
+
+/***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/babel-loader/lib/index.js??clonedRuleSet-3.use!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps003/index.vue?vue&type=script&lang=ts&":
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/babel-loader/lib/index.js??clonedRuleSet-3.use!../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@hummer/tenon-loader/dist/index.js??ruleSet[1].rules[7].use[0]!./src/packages/steps003/index.vue?vue&type=script&lang=ts& ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Users_mengxianrui_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_babel_runtime_helpers_esm_objectSpread2_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/objectSpread2.js */ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.runtime.esm-bundler.js");
+/* harmony import */ var _use_steps__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./use-steps */ "./src/packages/steps003/use-steps.ts");
+
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,vue__WEBPACK_IMPORTED_MODULE_1__.defineComponent)({
+  name: 'MdSteps',
+  props: _use_steps__WEBPACK_IMPORTED_MODULE_2__.stepsProps,
+
+  setup(props) {
+    return (0,_Users_mengxianrui_nvm_versions_node_v14_17_3_lib_node_modules_hummer_cli_node_modules_babel_runtime_helpers_esm_objectSpread2_js__WEBPACK_IMPORTED_MODULE_0__["default"])({}, (0,_use_steps__WEBPACK_IMPORTED_MODULE_2__.useSteps)(props));
+  }
+
 }));
 
 /***/ }),
@@ -28891,6 +29324,673 @@ _index_vue__WEBPACK_IMPORTED_MODULE_0__["default"].install = function (app) {
 
 /***/ }),
 
+/***/ "./src/packages/steps002/index.ts":
+/*!****************************************!*\
+  !*** ./src/packages/steps002/index.ts ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "Steps": () => (/* reexport safe */ _index_vue__WEBPACK_IMPORTED_MODULE_0__["default"]),
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _index_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.vue */ "./src/packages/steps002/index.vue");
+
+
+_index_vue__WEBPACK_IMPORTED_MODULE_0__["default"].install = function (app) {
+  app.component(_index_vue__WEBPACK_IMPORTED_MODULE_0__["default"].name, _index_vue__WEBPACK_IMPORTED_MODULE_0__["default"]);
+};
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_index_vue__WEBPACK_IMPORTED_MODULE_0__["default"]);
+
+/***/ }),
+
+/***/ "./src/packages/steps002/use-steps.ts":
+/*!********************************************!*\
+  !*** ./src/packages/steps002/use-steps.ts ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "stepsProps": () => (/* binding */ stepsProps),
+/* harmony export */   "useSteps": () => (/* binding */ useSteps)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.runtime.esm-bundler.js");
+/* harmony import */ var _utils_base__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils-base */ "./src/packages/utils-base/index.ts");
+
+
+var stepsProps = {
+  steps: {
+    type: Array,
+
+    default() {
+      /* istanbul ignore next */
+      return [];
+    }
+
+  },
+  current: {
+    type: Number,
+    default: 0,
+
+    validator(val) {
+      return val >= 0;
+    }
+
+  },
+  direction: {
+    type: String,
+    default: 'horizontal'
+  },
+  transition: {
+    type: Boolean,
+    default: false
+  },
+  verticalAdaptive: {
+    type: Boolean,
+    default: false
+  }
+};
+var useSteps = function useSteps(props) {
+  var initialed = (0,vue__WEBPACK_IMPORTED_MODULE_0__.ref)(false);
+  var currentLength = (0,vue__WEBPACK_IMPORTED_MODULE_0__.ref)(0);
+  var duration = (0,vue__WEBPACK_IMPORTED_MODULE_0__.ref)(0.3);
+  var timer = (0,vue__WEBPACK_IMPORTED_MODULE_0__.ref)(null);
+  var stepsRef = (0,vue__WEBPACK_IMPORTED_MODULE_0__.ref)(null);
+  var state = (0,vue__WEBPACK_IMPORTED_MODULE_0__.reactive)({
+    progress: [],
+    stepsSize: []
+  });
+
+  var barInnerStyle = function barInnerStyle(index) {
+    var direction = props.direction;
+    var transform = direction === 'horizontal' ? "(".concat((state.progress[index]['len'] - 1) * 100, "%, 0, 0)") : "(0, ".concat((state.progress[index]['len'] - 1) * 100, "%, 0)");
+    return {
+      transform: "translate3d".concat(transform),
+      transition: "all ".concat(state.progress[index]['time'], "s linear")
+    };
+  }; // methods
+
+
+  var initStepSize = function initStepSize() {
+    var direction = props.direction,
+        verticalAdaptive = props.verticalAdaptive;
+
+    if (direction !== 'vertical' || verticalAdaptive) {
+      return;
+    }
+
+    var iconWrappers = stepsRef.value && stepsRef.value.querySelectorAll('.icon-wrapper') || [];
+    var textWrappers = stepsRef.value && stepsRef.value.querySelectorAll('.text-wrapper') || [];
+    var stepsSizeNew = (0,_utils_base__WEBPACK_IMPORTED_MODULE_1__.toArray)(textWrappers).map(function (wrapper, index) {
+      var stepHeight = wrapper.clientHeight;
+      var iconHeight = iconWrappers[index].clientHeight;
+
+      if (index === textWrappers.length - 1) {
+        // The last step needs to subtract floated height
+        stepHeight -= iconHeight;
+      } else {
+        // Add spacing between steps to prevent distance too close
+        stepHeight += 40;
+      }
+
+      return stepHeight > 0 ? stepHeight : 0;
+    });
+
+    if (stepsSizeNew.toString() !== state.stepsSize.toString()) {
+      state.stepsSize = stepsSizeNew;
+    }
+  };
+
+  var formatValue = function formatValue(val) {
+    if (val < 0) {
+      return 0;
+    } else if (val > props.steps.length - 1) {
+      return props.steps.length - 1;
+    } else {
+      return val;
+    }
+  };
+
+  var getStepSizeForStyle = function getStepSizeForStyle(index) {
+    var direction = props.direction,
+        verticalAdaptive = props.verticalAdaptive;
+    var size = direction === 'vertical' && !verticalAdaptive ? state.stepsSize[index] : 0;
+    return size ? {
+      height: "".concat(size, "px")
+    } : null;
+  };
+
+  var sliceProgress = function sliceProgress(current) {
+    var steps = props.steps;
+    return steps.slice(0, steps.length - 1).map(function (step, index) {
+      var offset = current - index;
+      var progressCur = state.progress[index];
+      var isNewProgress = progressCur === undefined;
+      var len = 0;
+
+      if (offset <= 0) {
+        len = 0;
+      } else if (offset >= 1) {
+        len = 1;
+      } else {
+        len = offset;
+      }
+
+      var time = (isNewProgress ? len : Math.abs(progressCur.len - len)) * duration.value;
+      return {
+        len,
+        time
+      };
+    });
+  };
+
+  var doTransition = function doTransition(progress, isAdd, step) {
+    var currentLengthCur = isAdd ? 0 : currentLength.value;
+
+    var walk = function walk(index) {
+      if (index < progress.length && index > -1 && progress[index]) {
+        if (isAdd) {
+          currentLengthCur += progress[index].len;
+        } else {
+          currentLengthCur -= progress[index].len - progress[index].len;
+        }
+
+        setTimeout(function () {
+          index += isAdd ? 1 : -1;
+          step(currentLengthCur);
+          walk(index);
+        }, progress[index].time * 1000);
+      }
+    };
+
+    walk(isAdd ? 0 : progress.length - 1);
+  };
+
+  var getStepStatusClass = function getStepStatusClass(index) {
+    var status = [];
+
+    if (index < currentLength.value) {
+      status.push('reached');
+    }
+
+    if (index === Math.floor(currentLength.value)) {
+      status.push('current');
+    }
+
+    return status.join(' ');
+  }; // created
+
+
+  var currentStep = formatValue(props.current);
+  currentLength.value = currentStep;
+  state.progress = sliceProgress(currentStep);
+  (0,vue__WEBPACK_IMPORTED_MODULE_0__.watch)(function () {
+    return props.current;
+  }, function (newval) {
+    var currentStep = formatValue(newval);
+    var newProgress = sliceProgress(currentStep);
+
+    if (props.transition) {
+      var isAdd = currentStep >= 0;
+      timer.value && clearTimeout(timer.value);
+      timer.value = setTimeout(function () {
+        doTransition(newProgress, isAdd, function (len) {
+          if (isAdd && len > currentLength.value || !isAdd && len < currentLength.value) {
+            currentLength.value = len;
+          }
+        });
+      }, 100);
+    } else {
+      state.progress = newProgress;
+      currentLength.value = currentStep;
+    }
+  }, {
+    immediate: true
+  });
+  (0,vue__WEBPACK_IMPORTED_MODULE_0__.onMounted)(function () {
+    initStepSize();
+  });
+  (0,vue__WEBPACK_IMPORTED_MODULE_0__.onUpdated)(function () {
+    (0,vue__WEBPACK_IMPORTED_MODULE_0__.nextTick)(function () {
+      initStepSize();
+    });
+  });
+  return {
+    initialed,
+    progress: state.progress,
+    stepsSize: state.stepsSize,
+    currentLength,
+    duration,
+    timer,
+    stepsRef,
+    barInnerStyle,
+    doTransition,
+    sliceProgress,
+    initStepSize,
+    formatValue,
+    getStepSizeForStyle,
+    getStepStatusClass
+  };
+};
+
+/***/ }),
+
+/***/ "./src/packages/steps003/index.ts":
+/*!****************************************!*\
+  !*** ./src/packages/steps003/index.ts ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "Steps": () => (/* reexport safe */ _index_vue__WEBPACK_IMPORTED_MODULE_0__["default"]),
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _index_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.vue */ "./src/packages/steps003/index.vue");
+
+
+_index_vue__WEBPACK_IMPORTED_MODULE_0__["default"].install = function (app) {
+  app.component(_index_vue__WEBPACK_IMPORTED_MODULE_0__["default"].name, _index_vue__WEBPACK_IMPORTED_MODULE_0__["default"]);
+};
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_index_vue__WEBPACK_IMPORTED_MODULE_0__["default"]);
+
+/***/ }),
+
+/***/ "./src/packages/steps003/use-steps.ts":
+/*!********************************************!*\
+  !*** ./src/packages/steps003/use-steps.ts ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "stepsProps": () => (/* binding */ stepsProps),
+/* harmony export */   "useSteps": () => (/* binding */ useSteps)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.runtime.esm-bundler.js");
+/* harmony import */ var _utils_base__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils-base */ "./src/packages/utils-base/index.ts");
+
+
+var stepsProps = {
+  steps: {
+    type: Array,
+
+    default() {
+      /* istanbul ignore next */
+      return [];
+    }
+
+  },
+  current: {
+    type: Number,
+    default: 0,
+
+    validator(val) {
+      return val >= 0;
+    }
+
+  },
+  direction: {
+    type: String,
+    default: 'horizontal'
+  },
+  transition: {
+    type: Boolean,
+    default: false
+  },
+  verticalAdaptive: {
+    type: Boolean,
+    default: false
+  }
+};
+var useSteps = function useSteps(props) {
+  var initialed = (0,vue__WEBPACK_IMPORTED_MODULE_0__.ref)(false);
+  var currentLength = (0,vue__WEBPACK_IMPORTED_MODULE_0__.ref)(0);
+  var duration = (0,vue__WEBPACK_IMPORTED_MODULE_0__.ref)(0.3);
+  var timer = (0,vue__WEBPACK_IMPORTED_MODULE_0__.ref)(null);
+  var stepsRef = (0,vue__WEBPACK_IMPORTED_MODULE_0__.ref)(null);
+  var state = (0,vue__WEBPACK_IMPORTED_MODULE_0__.reactive)({
+    progress: [],
+    stepsSize: []
+  });
+
+  var barInnerStyle = function barInnerStyle(index) {
+    var direction = props.direction;
+    var transform = direction === 'horizontal' ? "(".concat((state.progress[index]['len'] - 1) * 100, "%, 0, 0)") : "(0, ".concat((state.progress[index]['len'] - 1) * 100, "%, 0)");
+    return {
+      transform: "translate3d".concat(transform),
+      transition: "all ".concat(state.progress[index]['time'], "s linear")
+    };
+  }; // methods
+
+
+  var initStepSize = function initStepSize() {
+    var direction = props.direction,
+        verticalAdaptive = props.verticalAdaptive;
+
+    if (direction !== 'vertical' || verticalAdaptive) {
+      return;
+    }
+
+    var iconWrappers = stepsRef.value && stepsRef.value.querySelectorAll('.icon-wrapper') || [];
+    var textWrappers = stepsRef.value && stepsRef.value.querySelectorAll('.text-wrapper') || [];
+    var stepsSizeNew = (0,_utils_base__WEBPACK_IMPORTED_MODULE_1__.toArray)(textWrappers).map(function (wrapper, index) {
+      var stepHeight = wrapper.clientHeight;
+      var iconHeight = iconWrappers[index].clientHeight;
+
+      if (index === textWrappers.length - 1) {
+        // The last step needs to subtract floated height
+        stepHeight -= iconHeight;
+      } else {
+        // Add spacing between steps to prevent distance too close
+        stepHeight += 40;
+      }
+
+      return stepHeight > 0 ? stepHeight : 0;
+    });
+
+    if (stepsSizeNew.toString() !== state.stepsSize.toString()) {
+      state.stepsSize = stepsSizeNew;
+    }
+  };
+
+  var formatValue = function formatValue(val) {
+    if (val < 0) {
+      return 0;
+    } else if (val > props.steps.length - 1) {
+      return props.steps.length - 1;
+    } else {
+      return val;
+    }
+  };
+
+  var getStepSizeForStyle = function getStepSizeForStyle(index) {
+    var direction = props.direction,
+        verticalAdaptive = props.verticalAdaptive;
+    var size = direction === 'vertical' && !verticalAdaptive ? state.stepsSize[index] : 0;
+    return size ? {
+      height: "".concat(size, "px")
+    } : null;
+  };
+
+  var sliceProgress = function sliceProgress(current) {
+    var steps = props.steps;
+    return steps.slice(0, steps.length - 1).map(function (step, index) {
+      var offset = current - index;
+      var progressCur = state.progress[index];
+      var isNewProgress = progressCur === undefined;
+      var len = 0;
+
+      if (offset <= 0) {
+        len = 0;
+      } else if (offset >= 1) {
+        len = 1;
+      } else {
+        len = offset;
+      }
+
+      var time = (isNewProgress ? len : Math.abs(progressCur.len - len)) * duration.value;
+      return {
+        len,
+        time
+      };
+    });
+  };
+
+  var doTransition = function doTransition(progress, isAdd, step) {
+    var currentLengthCur = isAdd ? 0 : currentLength.value;
+
+    var walk = function walk(index) {
+      if (index < progress.length && index > -1 && progress[index]) {
+        if (isAdd) {
+          currentLengthCur += progress[index].len;
+        } else {
+          currentLengthCur -= progress[index].len - progress[index].len;
+        }
+
+        setTimeout(function () {
+          index += isAdd ? 1 : -1;
+          step(currentLengthCur);
+          walk(index);
+        }, progress[index].time * 1000);
+      }
+    };
+
+    walk(isAdd ? 0 : progress.length - 1);
+  };
+
+  var getStepStatusClass = function getStepStatusClass(index) {
+    var status = [];
+
+    if (index < currentLength.value) {
+      status.push('reached');
+    }
+
+    if (index === Math.floor(currentLength.value)) {
+      status.push('current');
+    }
+
+    return status.join(' ');
+  }; // created
+
+
+  var currentStep = formatValue(props.current);
+  currentLength.value = currentStep;
+  state.progress = sliceProgress(currentStep);
+  (0,vue__WEBPACK_IMPORTED_MODULE_0__.watch)(function () {
+    return props.current;
+  }, function (newval) {
+    var currentStep = formatValue(newval);
+    var newProgress = sliceProgress(currentStep);
+
+    if (props.transition) {
+      var isAdd = currentStep >= 0;
+      timer.value && clearTimeout(timer.value);
+      timer.value = setTimeout(function () {
+        doTransition(newProgress, isAdd, function (len) {
+          if (isAdd && len > currentLength.value || !isAdd && len < currentLength.value) {
+            currentLength.value = len;
+          }
+        });
+      }, 100);
+    } else {
+      state.progress = newProgress;
+      currentLength.value = currentStep;
+    }
+  }, {
+    immediate: true
+  });
+  (0,vue__WEBPACK_IMPORTED_MODULE_0__.onMounted)(function () {
+    initStepSize();
+  });
+  (0,vue__WEBPACK_IMPORTED_MODULE_0__.onUpdated)(function () {
+    (0,vue__WEBPACK_IMPORTED_MODULE_0__.nextTick)(function () {
+      initStepSize();
+    });
+  });
+  return {
+    initialed,
+    progress: state.progress,
+    stepsSize: state.stepsSize,
+    currentLength,
+    duration,
+    timer,
+    stepsRef,
+    barInnerStyle,
+    doTransition,
+    sliceProgress,
+    initStepSize,
+    formatValue,
+    getStepSizeForStyle,
+    getStepStatusClass
+  };
+};
+
+/***/ }),
+
+/***/ "./src/packages/utils-base/function.ts":
+/*!*********************************************!*\
+  !*** ./src/packages/utils-base/function.ts ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "no": () => (/* binding */ no),
+/* harmony export */   "noop": () => (/* binding */ noop),
+/* harmony export */   "toArray": () => (/* binding */ toArray)
+/* harmony export */ });
+/* eslint-disable @typescript-eslint/no-this-alias */
+// import { inBrowser } from './env'
+var no = function no() {
+  return false;
+};
+function noop() {}
+/**
+ * Creates a debounced function that delays invoking fn until after delay milliseconds
+ */
+// export function debounce(fn = noop, delay = 300) {
+//   let timer: any = null
+//
+//   return function (this: any) {
+//     const context = this
+//     const args = arguments
+//
+//     if (timer) {
+//       clearTimeout(timer)
+//     }
+//
+//     timer = setTimeout(function () {
+//       fn.apply(context, args as any)
+//     }, delay)
+//   }
+// }
+
+/**
+ * Creates a throttled function that only invokes fn at most once per every interval milliseconds
+ */
+// export function throttle(fn: any = noop, interval = 300) {
+//   let last = 0
+//
+//   return function (this: any) {
+//     const context = this
+//     const now = Date.now()
+//
+//     if (now - last > interval) {
+//       last = now
+//       fn.apply(context, arguments as any)
+//     }
+//   }
+// }
+// export function getDpr() {
+//   const getParam = (name: string, str: string | null) => {
+//     const reg = new RegExp(`(^|,)${name}=([^,]*)(,|$)`, 'i')
+//     const r = str && str.match(reg)
+//     if (r != null) {
+//       return r[2]
+//     }
+//     return null
+//   }
+//
+//   const viewPort = inBrowser
+//     ? document.querySelector('meta[name=viewport]')
+//     : null
+//
+//   if (!viewPort) {
+//     return 1
+//   }
+//
+//   const viewPortContent = viewPort.getAttribute('content')
+//   const initialScale = +(
+//     getParam('initial-scale', viewPortContent) || 1
+//   )
+//   const maximumScale = +(
+//     getParam('maximum-scale', viewPortContent) || 1
+//   )
+//   const minimumScale = +(
+//     getParam('minimum-scale', viewPortContent) || 1
+//   )
+//
+//   return (
+//     1 / Math.min(initialScale, maximumScale, minimumScale)
+//   )
+// }
+
+/**
+ * generate random id
+ */
+// export function randomId(prefix = '', length = 8) {
+//   return `${prefix}-${parseInt(
+//     `${Math.random() * Math.pow(10, length)}`
+//   )}`
+// }
+
+/**
+ * transform a Function to Blob Url
+ */
+// export function functionToUrl(fn: (options: any) => void) {
+//   const blob = new Blob([`(${fn.toString()})(null)`], {
+//     type: 'application/javascript',
+//   })
+//   return URL.createObjectURL(blob)
+// }
+
+/**
+ * Convert an Array-like object to a real Array.
+ */
+
+function toArray(list) {
+  var start = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 0;
+  var i = list.length - start;
+  var ret = [];
+
+  while (i--) {
+    ret.unshift(list[i + start]);
+  }
+
+  return ret;
+}
+/**
+ * Merge an Array of Objects into a single Object.
+ */
+// export function toObject<T extends Record<string, unknown>>(
+//   arr: Array<T>
+// ) {
+//   const res = {}
+//   for (let i = 0; i < arr.length; i++) {
+//     if (arr[i]) {
+//       // @ts-ignore
+//       Object.assign(res, arr[i])
+//     }
+//   }
+//   return res
+// }
+
+/***/ }),
+
+/***/ "./src/packages/utils-base/index.ts":
+/*!******************************************!*\
+  !*** ./src/packages/utils-base/index.ts ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "no": () => (/* reexport safe */ _function__WEBPACK_IMPORTED_MODULE_0__.no),
+/* harmony export */   "noop": () => (/* reexport safe */ _function__WEBPACK_IMPORTED_MODULE_0__.noop),
+/* harmony export */   "toArray": () => (/* reexport safe */ _function__WEBPACK_IMPORTED_MODULE_0__.toArray)
+/* harmony export */ });
+/* harmony import */ var _function__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./function */ "./src/packages/utils-base/function.ts");
+
+
+/***/ }),
+
 /***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js":
 /*!****************************************************************************************************************************************!*\
   !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js ***!
@@ -29122,6 +30222,33 @@ function _createSuper(Derived) {
 
 /***/ }),
 
+/***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/defineProperty.js":
+/*!**************************************************************************************************************************************!*\
+  !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/defineProperty.js ***!
+  \**************************************************************************************************************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ _defineProperty)
+/* harmony export */ });
+function _defineProperty(obj, key, value) {
+  if (key in obj) {
+    Object.defineProperty(obj, key, {
+      value: value,
+      enumerable: true,
+      configurable: true,
+      writable: true
+    });
+  } else {
+    obj[key] = value;
+  }
+
+  return obj;
+}
+
+/***/ }),
+
 /***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js":
 /*!**************************************************************************************************************************************!*\
   !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js ***!
@@ -29284,6 +30411,47 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 function _nonIterableSpread() {
   throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+
+/***/ }),
+
+/***/ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/objectSpread2.js":
+/*!*************************************************************************************************************************************!*\
+  !*** ../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/objectSpread2.js ***!
+  \*************************************************************************************************************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ _objectSpread2)
+/* harmony export */ });
+/* harmony import */ var _defineProperty_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./defineProperty.js */ "../../../../.nvm/versions/node/v14.17.3/lib/node_modules/@hummer/cli/node_modules/@babel/runtime/helpers/esm/defineProperty.js");
+
+
+function ownKeys(object, enumerableOnly) {
+  var keys = Object.keys(object);
+
+  if (Object.getOwnPropertySymbols) {
+    var symbols = Object.getOwnPropertySymbols(object);
+    enumerableOnly && (symbols = symbols.filter(function (sym) {
+      return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+    })), keys.push.apply(keys, symbols);
+  }
+
+  return keys;
+}
+
+function _objectSpread2(target) {
+  for (var i = 1; i < arguments.length; i++) {
+    var source = null != arguments[i] ? arguments[i] : {};
+    i % 2 ? ownKeys(Object(source), !0).forEach(function (key) {
+      (0,_defineProperty_js__WEBPACK_IMPORTED_MODULE_0__["default"])(target, key, source[key]);
+    }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) {
+      Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+    });
+  }
+
+  return target;
 }
 
 /***/ }),

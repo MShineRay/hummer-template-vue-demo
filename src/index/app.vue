@@ -2,10 +2,13 @@
   <view class="page">
     <text class="slogan">{{slogan}}</text>
     <view class="demo">
-      <step001></step001>
+      <steps001></steps001>
     </view>
     <view class="demo">
-      <step001></step001>
+      <steps002></steps002>
+    </view>
+    <view class="demo">
+      <steps003 :steps="steps"></steps003>
     </view>
   </view>
 </template>
@@ -27,13 +30,17 @@
 </style>
 
 <script lang="ts">
-import MdSteps from '../packages/steps-base'
+import steps001 from '../packages/steps-base'
+import steps002 from '../packages/steps002'
+import steps003 from '../packages/steps003'
 export default {
   pageConfig: {
     canScroll: false
   },
   components: {
-    step001:MdSteps
+    steps001,
+    steps002,
+    steps003
   },
   data(){
     return {
