@@ -80,9 +80,9 @@
             :step="step"
           ></slot>
           <template v-else>
-            <view class="name">
+            <text class="name">
               {{ step.name }}
-            </view>
+            </text>
             <view v-if="step.text" class="desc">
               {{ step.text }}
             </view>
@@ -90,12 +90,19 @@
         </view>
       </view>
       <view
-        class="bar"
-        :class="[
-          direction === 'horizontal'
-            ? 'horizontal-bar'
-            : 'vertical-bar',
-        ]"
+        class="bar horizontal-bar"
+        v-if="direction === 'horizontal'"
+        style="flex: 1; height:1px;"
+      >
+        <i
+          v-if="progress[index]"
+          class="bar-inner"
+          :style="barInnerStyle(index)"
+        ></i>
+      </view>
+      <view
+        class="bar vertical-bar"
+        v-if="direction !== 'horizontal'"
         :style="getStepSizeForStyle(index)"
       >
         <i
@@ -268,7 +275,7 @@ export default defineComponent({
   }
   .bar{
     position: relative;
-    background-color: #E2E4EA;//var(--md-steps-color)
+    background-color: #E2E4EA;
     overflow: hidden;
     .bar-inner{
       z-index: 10;
@@ -307,5 +314,6 @@ export default defineComponent({
       }
     }
   }
+
 }
 </style>

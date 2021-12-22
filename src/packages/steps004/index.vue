@@ -1,57 +1,32 @@
 <template>
-  <view class="md-steps md-steps-horizontal no-current" style="display: flex;text-align: center">
+  <view class="md-steps md-steps-horizontal no-current">
     <view class="step-wrapper reached">
       <view class="icon-wrapper">
         <view class="step-node-default">
-          <text class="step-node-default-icon" style="width: 12px; height: 12px; border-radius: 50%;">111</text>
+          <!--节点-->
+          <view class="step-node-default-icon" style="width: 0.28rem; height: 0.28rem; border-radius: 50%;"></view>
         </view>
       </view>
       <view class="text-wrapper">
         <text class="name">登录</text>
       </view>
     </view>
-    <view class="bar horizontal-bar" style="border: 1px solid red;">
-      --
-<!--      <i class="bar-inner" style="transform: translate3d(0%, 0px, 0px); transition: all 0s linear 0s;"></i>-->
+    <view
+      class="bar horizontal-bar"
+      style="flex: 1;height: 1px;"
+    >
+      <i class="bar-inner" style="transform: translate3d(0%, 0px, 0px); transition: all 0s linear 0s;"></i>
     </view>
     <view class="step-wrapper reached current">
-      <view class="icon-wrapper">
-        <view class="step-node-default">
-          <text class="step-node-default-icon" style="width: 6px; height: 6px; border-radius: 50%;"></text>
-        </view>
-      </view>
-      <view class="text-wrapper">
-        <text class="name">开通</text>
-      </view>
-    </view>
-    <div class="bar horizontal-bar">
-      <i class="bar-inner" style="transform: translate3d(-80%, 0px, 0px); transition: all 0s linear 0s;"></i>
-    </div>
-    <view class="step-wrapper">
-      <view class="icon-wrapper">
-        <view class="step-node-default">
-          <text class="step-node-default-icon" style="width: 6px; height: 6px; border-radius: 50%;">22</text>
-        </view>
-      </view>
-      <view class="text-wrapper">
-        <text class="name">验证</text>
-      </view>
-    </view>
-    <view class="bar horizontal-bar">
-      ---
-<!--      <i class="bar-inner" style="transform: translate3d(-100%, 0px, 0px); transition: all 0s linear 0s;"></i>-->
-    </view>
-    <view class="step-wrapper">
       <view class="icon-wrapper">
         <view class="step-node-default">
           <view class="step-node-default-icon" style="width: 6px; height: 6px; border-radius: 50%;"></view>
         </view>
       </view>
       <view class="text-wrapper">
-        <text class="name">成功</text>
-      </view>
+        <text class="name">开通</text></view>
     </view>
-    <text class="bar horizontal-bar">---</text>
+    <view class="bar horizontal-bar"></view>
   </view>
 </template>
 
@@ -70,7 +45,7 @@ export default defineComponent({
 })
 </script>
 
-<style lang="less">
+<style lang="less" scoped>
 .steps001 {
   background-color: red;
 }
@@ -250,7 +225,6 @@ export default defineComponent({
     //background-color: #E2E4EA; //var(--md-steps-color)
     background-color: unset;
     overflow: hidden;
-    border: 100px solid red;
     .bar-inner {
       z-index: 10;
       position: absolute;
@@ -267,7 +241,7 @@ export default defineComponent({
       .bar-inner {
         width: 100%;
         height: 1px; //var(--md-steps-border-size)
-        //background-color: #198cff; //var(--md-steps-color-active);
+        background-color: #198cff; //var(--md-steps-color-active);
       }
     }
 
