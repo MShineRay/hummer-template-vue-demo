@@ -38,8 +38,8 @@
               <div
                 class="step-node-default-icon"
                 style="
-                  width: 6px;
-                  height: 6px;
+                  width: 60px;
+                  height: 60px;
                   border-radius: 50%;
                 "
               ></div>
@@ -63,8 +63,8 @@
               <div
                 class="step-node-default-icon"
                 style="
-                  width: 6px;
-                  height: 6px;
+                  width: 60px;
+                  height: 60px;
                   border-radius: 50%;
                 "
               ></div>

@@ -11,6 +11,10 @@
       <text>steps003</text>
       <steps003 :steps="steps"></steps003>
     </view>
+    <view class="demo">
+      <text>steps004</text>
+      <steps004 :steps="steps"></steps004>
+    </view>
   </view>
 </template>
 <style lang="less" scoped>
@@ -30,6 +34,7 @@
 import steps001 from '../packages/steps-base'
 import steps002 from '../packages/steps002'
 import steps003 from '../packages/steps003'
+import steps004 from '../packages/steps004'
 export default {
   pageConfig: {
     canScroll: false
@@ -37,7 +42,8 @@ export default {
   components: {
     steps001,
     steps002,
-    steps003
+    steps003,
+    steps004
   },
   data(){
     return {
