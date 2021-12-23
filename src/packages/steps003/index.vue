@@ -18,22 +18,20 @@
         class="step-wrapper"
         :class="[getStepStatusClass(index)]"
       >
-        <!-- Customize uniformly -->
         <view v-if="$slots.icon" class="icon-wrapper">
-          <slot
+          <view
             name="icon"
             :index="index"
             :current-index="currentLength"
-          ></slot>
+          ></view>
         </view>
-        <!-- Customize by status-->
         <view v-else class="icon-wrapper">
-          <template v-if="index < currentLength">
-            <slot
+          <view v-if="index < currentLength">
+            <view
               v-if="$slots.reached || $slots.reached"
               name="reached"
               :index="index"
-            ></slot>
+            ></view>
             <view v-else class="step-node-default">
               <view
                 class="step-node-default-icon"
@@ -44,22 +42,21 @@
                 "
               ></view>
             </view>
-          </template>
-          <template v-else-if="index === currentLength">
-            <slot
+          </view>
+          <view v-else-if="index === currentLength">
+            <view
               v-if="$slots.current || $slots.current"
               name="current"
               :index="index"
-            ></slot>
-            <!--              <md-icon v-else name="success"></md-icon>-->
+            ></view>
             <text v-else>icon</text>
-          </template>
-          <template v-else>
-            <slot
+          </view>
+          <view v-else>
+            <view
               v-if="$slots.unreached || $slots.unreached"
               name="unreached"
               :index="index"
-            ></slot>
+            ></view>
             <view v-else class="step-node-default">
               <view
                 class="step-node-default-icon"
@@ -70,47 +67,41 @@
                 "
               ></view>
             </view>
-          </template>
+          </view>
         </view>
         <view class="text-wrapper">
-          <slot
+          <view
             v-if="$slots.content"
             name="content"
             :index="index"
             :step="step"
-          ></slot>
-          <template v-else>
+          ></view>
+          <view v-else>
             <text class="name">
-              {{ step.name }}
+              {{ step.name }}1
             </text>
-            <view v-if="step.text" class="desc">
+            <text v-if="step.text" class="desc">
               {{ step.text }}
-            </view>
-          </template>
+            </text>
+          </view>
         </view>
       </view>
-      <view
-        class="bar horizontal-bar"
-        v-if="direction === 'horizontal'"
-        style="flex: 1; height:1px;"
-      >
-        <i
-          v-if="progress[index]"
-          class="bar-inner"
-          :style="barInnerStyle(index)"
-        ></i>
-      </view>
-      <view
-        class="bar vertical-bar"
-        v-if="direction !== 'horizontal'"
+      <div
+        class=""
+        :class="[
+          direction === 'horizontal'
+            ? 'bar__horizontal-bar'
+            : 'vertical-bar',
+        ]"
         :style="getStepSizeForStyle(index)"
+        v-if="index!==steps.length-1"
       >
         <i
           v-if="progress[index]"
           class="bar-inner"
           :style="barInnerStyle(index)"
         ></i>
-      </view>
+      </div>
     </template>
   </view>
 </template>
@@ -130,13 +121,11 @@ export default defineComponent({
 </script>
 
 <style lang="less">
-.steps001{
-  background-color: red;
-}
 .md-steps{
   display: flex;
   justify-content: space-around;
   font-size: 28px;
+  //background-color: red;
   &.md-steps-horizontal{
     align-items: center;
     padding: 40px 100px 100px;
@@ -178,45 +167,45 @@ export default defineComponent({
       }
     }
   }
-  &.md-steps-vertical{
-    align-items: flex-start;
-    padding: 40px;
-    flex-direction: column;
-    &.vertical-adaptive{
-      justify-content: normal;
-      padding: 40px 40px 8px;
-      .bar.vertical-bar{
-        flex:1;
-      }
-    }
-    .step-wrapper{
-      width: 100%;
-      margin: 4px 0;
-      align-items: stretch;
-      .icon-wrapper{
-        position: relative;
-        .step-node-default{
-          min-width: 32px;// var(--md-steps-icon-size)
-          min-height: 32px;//var(--md-steps-icon-size)
-        }
-      }
-      .text-wrapper{
-        left: 32px;// var(--md-steps-icon-size)
-        padding-left: 40px;// var(--md-steps-text-gap-vertical)
-        .name,
-        .desc{
-          white-space: normal;
-        }
-        .name{
-          color: #41485D;//var(--md-steps-text-color)
-        }
-        .desc{
-          margin-top: 18px;
-          color: #858B9C;//var(--md-steps-desc-color)
-        }
-      }
-    }
-  }
+  //&.md-steps-vertical{
+  //  align-items: flex-start;
+  //  padding: 40px;
+  //  flex-direction: column;
+  //  &.vertical-adaptive{
+  //    justify-content: normal;
+  //    padding: 40px 40px 8px;
+  //    .bar.vertical-bar{
+  //      flex:1;
+  //    }
+  //  }
+  //  .step-wrapper{
+  //    width: 100%;
+  //    margin: 4px 0;
+  //    align-items: stretch;
+  //    .icon-wrapper{
+  //      position: relative;
+  //      .step-node-default{
+  //        min-width: 32px;// var(--md-steps-icon-size)
+  //        min-height: 32px;//var(--md-steps-icon-size)
+  //      }
+  //    }
+  //    .text-wrapper{
+  //      left: 32px;// var(--md-steps-icon-size)
+  //      padding-left: 40px;// var(--md-steps-text-gap-vertical)
+  //      .name,
+  //      .desc{
+  //        white-space: normal;
+  //      }
+  //      .name{
+  //        color: #41485D;//var(--md-steps-text-color)
+  //      }
+  //      .desc{
+  //        margin-top: 18px;
+  //        color: #858B9C;//var(--md-steps-desc-color)
+  //      }
+  //    }
+  //  }
+  //}
   .icon-wrapper{
     display: flex;
     justify-content: center;
@@ -277,6 +266,8 @@ export default defineComponent({
     position: relative;
     background-color: #E2E4EA;
     overflow: hidden;
+    flex: 1 1 auto;
+    height: 2px;
     .bar-inner{
       z-index: 10;
       position: absolute;
@@ -288,22 +279,49 @@ export default defineComponent({
     }
     &.horizontal-bar{
       flex: 1;
-      height: 1px;//var(--md-steps-border-size)
+      height: 2px;//var(--md-steps-border-size)
       .bar-inner{
         width: 100%;
         height: 1px;//var(--md-steps-border-size)
         background-color: #198cff;//var(--md-steps-color-active);
       }
     }
-    &.vertical-bar{
-      left: 16px;
-      width: 1px;//var(--md-steps-border-size)
-      transform: translateX(-50%);
-      .bar-inner{
-        width: 1px;//var(--md-steps-border-size)
-        height: 100%;
-        background-color: #198cff;//var(--md-steps-color-active);
+    //&.vertical-bar{
+    //  left: 16px;
+    //  width: 1px;//var(--md-steps-border-size)
+    //  transform: translateX(-50%);
+    //  .bar-inner{
+    //    width: 1px;//var(--md-steps-border-size)
+    //    height: 100%;
+    //    background-color: #198cff;//var(--md-steps-color-active);
+    //  }
+    //}
+    &:last-of-type{
+      &.horizontal-bar{
+        display: none;
       }
+      &.vertical-bar{
+        visibility: hidden;
+      }
+    }
+  }
+  .bar__horizontal-bar{
+    position: relative;
+    background-color: #E2E4EA;
+    overflow: hidden;
+    flex: 1 1 auto;
+    height: 2px;
+    .bar-inner{
+      z-index: 10;
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      content: '';
+      transition: all linear 1s;
+      width: 100%;
+      height: 1px;//var(--md-steps-border-size)
+      background-color: #198cff;//var(--md-steps-color-active);
     }
     &:last-of-type{
       &.horizontal-bar{
@@ -314,6 +332,8 @@ export default defineComponent({
       }
     }
   }
-
+  .bar__horizontal-bar:last-of-type{
+    display: none;
+  }
 }
 </style>
